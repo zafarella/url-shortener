@@ -16,7 +16,7 @@ libraryDependencies ++= Seq(
 
   "org.webjars" %% "webjars-play" % "2.6.3",
   "org.webjars" % "swagger-ui" % "3.9.0",
-  "io.swagger" %% "swagger-play2" % "1.6.0",
+  "io.swagger" %% "swagger-play2" % "1.7.1",
 
   "org.scalatestplus.play" %% "scalatestplus-play" % "3.1.2" % Test,
 
